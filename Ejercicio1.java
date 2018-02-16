@@ -2,6 +2,7 @@
 
 public class Ejercicio1 {
       public static void main(String[ ] arg) {
+      	System.out.println("Bienvenido");
         int Numero1=20;
         int Numero2=20;
         if (Numero1>Numero2){
